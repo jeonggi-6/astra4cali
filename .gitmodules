@@ -1,0 +1,3 @@
+[submodule "src/astra_pack4cali"]
+	path = src/astra_pack4cali
+	url = https://github.com/jeonggi-6/astra_pack4cali.git
